@@ -1,4 +1,4 @@
-# PROJECT TITLE
+# SEATTLE VS VANCOUVER RAIN
 
 > We will use the data science methodology to investigate whether it rains more in Seattle, WA than in Vancouver, BC
 
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+We will use daily precipitation measured in Seattle and Vancouver from January 1, 2018, to December 31, 2022. The data sets were downloaded from the National Centers for Environmental Information NOAA tool : Search | Climate Data Online (CDO) | National Climatic Data Center (NCDC). 
 
 - **Objective:** The goal of the project is to find which city has more rain.
 - **Domain:** Environment
