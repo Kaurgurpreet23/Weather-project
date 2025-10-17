@@ -1,6 +1,6 @@
 # SEATTLE VS VANCOUVER RAIN
 
-> We will use the data science methodology to investigate whether it rains more in Seattle, WA than in Vancouver, BC
+> We will use the data science methodology to investigate whether it rains more in Seattle, WA than in Vancouver, BC (where I used to live). The problem is simple; As I have lived in Vancouver for more than seven years, I think that it rains too much in Vancouver. However, my in-laws have lived in Seattle for more than a decade, and they debate it rains more in Seattle.  I want to use data to determine whether it rains more in Seattle, WA than in Vancouver, BC.
 
 ---
 
